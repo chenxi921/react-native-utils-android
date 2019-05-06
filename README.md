@@ -1,6 +1,6 @@
 # react-native-utils-android
+[![](https://jitpack.io/v/chenxi921/react-native-utils-android.svg)](https://jitpack.io/#chenxi921/react-native-utils-android)
 
-[![Release](https://img.shields.io/github/release/webee/react-native-utils-android.svg?label=maven version)](https://jitpack.io/#webee/react-native-utils-android)
 
 react-native utils for android.
 

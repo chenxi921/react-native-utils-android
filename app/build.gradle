@@ -3,7 +3,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 group='com.github.chenxi921'
 android {
     compileSdkVersion 26
-    buildToolsVersion "24.0.3"
+    buildToolsVersion "26.0.0"
     defaultConfig {
         applicationId "com.github.webee.rn.utils"
         minSdkVersion 16
